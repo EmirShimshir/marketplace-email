@@ -2,7 +2,7 @@ package emailProvider
 
 import (
 	"context"
-	"github.com/EmirShimshir/marketplace-port/port"
+	"github.com/EmirShimshir/marketplace-core/port"
 	"gopkg.in/gomail.v2"
 )
 

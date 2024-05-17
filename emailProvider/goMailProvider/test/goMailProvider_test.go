@@ -2,8 +2,8 @@ package test
 
 import (
 	"context"
+	"github.com/EmirShimshir/marketplace-core/port"
 	emailProvider "github.com/EmirShimshir/marketplace-email/emailProvider/goMailProvider"
-	"github.com/EmirShimshir/marketplace-port/port"
 	"github.com/stretchr/testify/require"
 	"gopkg.in/gomail.v2"
 	"testing"
